@@ -1,0 +1,2 @@
+# freehack
+Hack for happiness
